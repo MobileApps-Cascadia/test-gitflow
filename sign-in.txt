@@ -1,3 +1,3 @@
 This is an incredibly useful text document. 
 Please add your name below ...
-This line was entered by Sean 
+This line was added by Justin
