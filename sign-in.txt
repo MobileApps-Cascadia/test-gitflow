@@ -4,4 +4,3 @@ Brian Bansenauer
 Sean Chung
 Scott W. Maxwell
 
-new line added in SeanWork-develop branch.
