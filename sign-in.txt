@@ -1,3 +1,10 @@
 This is an incredibly useful text document. 
 Please put your name below ...
-Brian, chris
+
+Brian, 
+Aaron,
+James Hayes,
+Emilio,
+Robert Ramirez,
+chris,
+
