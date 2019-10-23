@@ -1,7 +1,5 @@
-This is an incredibly useful text document. 
-Please put your name below ...
-Brian
-Aaron
-James Hayes
-Emilio
-Robert Ramirez
+This is our test document for exploring merge conflicts.
+
+Please put your name below any existing names ...
+ - Brian
+
