@@ -2,6 +2,7 @@ This is our test document for exploring merge conflicts.
 
 Please put your name below any existing names ...
 
+ - another
  - Brian
  - Silvio
  - Brian
