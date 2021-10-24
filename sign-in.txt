@@ -1,3 +1,11 @@
-This is an incredibly useful text document. 
-Please add your name below ...
- - Brian
+TODO: Be sure you have created a feature branch from develop. You will only edit files while on your feature branch. (HINT: use 'git branch' to check)
+TODO: Edit this sign-in.txt file to include your name and github username AT THE BOTTOM OF THE LIST. Match the layout shown below. Commit your changes.
+TODO: Use the terminal and git commands to complete the PULL; MERGE; COMMIT; PUSH cycle
+  -- Pull any changes from remote (origin) develop branch into your feature branch
+  -- Merge develop into your feature-branch by resolving any conflicts and committing
+  -- Push your feature-branch up to GitHub
+  -- Create or Review your pull request to see if it is able to be Merged
+
+  NAME  : GitHub Username
+  -----------------------------
+  Brian : Bansenauer-Cascadia
