@@ -1,5 +1,8 @@
 ## Sign-In List with GitHub Username ##
+<<<<<<< HEAD
+=======
 
+>>>>>>> c4956f1bef8f72bf90d10993cb0ab24b9ed9d702
 TODO: Be sure you have created a feature branch from develop. You will only edit files while on your feature branch. (HINT: use 'git branch' to check)
 TODO: Edit this sign-in.txt file to include your name and github username AT THE BOTTOM OF THE LIST. Match the layout shown below. Commit your changes.
 TODO: Use the terminal and git commands to complete the PULL; MERGE; COMMIT; PUSH cycle
@@ -10,6 +13,6 @@ TODO: Use the terminal and git commands to complete the PULL; MERGE; COMMIT; PUS
 
   NAME  : GitHub Username
   -----------------------------
-  Brian : Bansenauer-Cascadia
 
+  Brian : Bansenauer-Cascadia
   Michael: Michaelzieve
