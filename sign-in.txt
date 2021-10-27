@@ -10,6 +10,8 @@ TODO: Use the terminal and git commands to complete the PULL; MERGE; COMMIT; PUS
 
   NAME  : GitHub Username
   -----------------------------
+
   Brian Bansenauer: Bansenauer-Cascadia
+  Dr. B : Bansenauer-Cascadia
   Haytham: haythamodeh
 
