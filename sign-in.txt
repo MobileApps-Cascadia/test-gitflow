@@ -12,4 +12,4 @@ TODO: Use the terminal and git commands to complete the PULL; MERGE; COMMIT; PUS
   -----------------------------
   Brian : Bansenauer-Cascadia
 
-Michaelz
+  Michael: Michaelzieve
