@@ -13,4 +13,6 @@ TODO: Use the terminal and git commands to complete the PULL; MERGE; COMMIT; PUS
   Brian Bansenauer: Bansenauer-Cascadia
   Dr. B : Bansenauer-Cascadia
   Shahin : shahinnezam
+  Andrea : Andrealharrison
+  Othman : odjuliarso
   Haytham : haythamodeh
