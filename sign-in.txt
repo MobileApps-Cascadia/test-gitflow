@@ -1,4 +1,3 @@
-
 ## Sign-In List with GitHub Username ##
 
 TODO: Be sure you have created a feature branch from develop. You will only edit files while on your feature branch. (HINT: use 'git branch' to check)
