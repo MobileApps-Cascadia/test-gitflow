@@ -12,7 +12,7 @@ TODO: Use the terminal and git commands to complete the PULL; MERGE; COMMIT; PUS
   -----------------------------
   Dr. B.  : Bansenauer-Cascadia
   Shahin  : shahinnezam
-  Andrea  : Andrealharrisongit
+  Andrea  : Andrealharrison
   Othman  : odjuliarso
   Haytham : haythamodeh
   Michael : michaelzieve
