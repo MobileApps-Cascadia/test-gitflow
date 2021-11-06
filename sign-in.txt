@@ -19,3 +19,5 @@ TODO: Use the terminal and git commands to complete the PULL; MERGE; COMMIT; PUS
   Othman  : odjuliarso
   Haytham : haythamodeh
   Fabrice : fabricekalvanda
+  Michael: michaelzieve
+
