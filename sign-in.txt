@@ -10,7 +10,6 @@ TODO: Use the terminal and git commands to complete the PULL; MERGE; COMMIT; PUS
 
   NAME  : GitHub Username
   -----------------------------
-<<<<<<< HEAD
 
   Brian Bansenauer: Bansenauer-Cascadia
   Dr. B.  : Bansenauer-Cascadia
@@ -19,3 +18,4 @@ TODO: Use the terminal and git commands to complete the PULL; MERGE; COMMIT; PUS
   Othman  : odjuliarso
   Haytham : haythamodeh
   Fabrice : fabricekalvanda
+
