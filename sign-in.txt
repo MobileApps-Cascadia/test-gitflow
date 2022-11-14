@@ -1,20 +1,17 @@
 ## Sign-In List with GitHub Username ##
-<<<<<<< HEAD
-=======
 
->>>>>>> c4956f1bef8f72bf90d10993cb0ab24b9ed9d702
-TODO: Be sure you have created a feature branch from develop. You will only edit files while on your feature branch. (HINT: use 'git branch' to check)
-TODO: Edit this sign-in.txt file to include your name and github username AT THE BOTTOM OF THE LIST. Match the layout shown below. Commit your changes.
+TODO: Be sure you have created a feature branch from develop.
+      ONLY edit files while on your feature branch. (HINT: use 'git branch' command to check)
+TODO: Edit this sign-in.txt file to include your name and github username AT THE BOTTOM OF THE LIST.
+      Match the layout shown below. Commit your changes.
 TODO: Use the terminal and git commands to complete the PULL; MERGE; COMMIT; PUSH cycle
-  -- Pull any changes from remote (origin) develop branch into your feature branch
-  -- Merge develop into your feature-branch by resolving any conflicts and committing
-  -- Push your feature-branch up to GitHub
-  -- Create or Review your pull request to see if it is able to be Merged
+      -- Pull any changes from remote develop branch into your feature branch
+         `git pull origin develop`
+      -- Merge develop into your feature-branch by resolving any conflicts; then COMMIT
+      -- Push your feature-branch up to GitLab
+         `git push`
+      -- Create or Review your pull request to see if it is able to be Merged
 
-  NAME  : GitHub Username
-  -----------------------------
-<<<<<<< HEAD
-  Brian Bansenauer: Bansenauer-Cascadia
-=======
-  Brian : Bansenauer-Cascadia
->>>>>>> c4956f1bef8f72bf90d10993cb0ab24b9ed9d702
+  First and Last  : GitLab Username
+  ---------------------------------
+  Brian Bansenauer: brianb-cascadia
